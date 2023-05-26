@@ -1,4 +1,4 @@
-import styles from "./page.module.css";
+import styles from "/styles/page.module.css";
 import Banner from "../components/banner";
 import Image from "next/image";
 
