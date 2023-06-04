@@ -1,0 +1,20 @@
+.link {
+  margin: auto;
+  --tw-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  box-shadow: 0 0 transparent, 0 0 #000, 0 0 transparent, 0 0 #000,
+    0 0 transparent;
+  border-color: var(--text-white-100);
+  border-radius: 0.75rem;
+}
+
+.container {
+  width: fit-content;
+  border-radius: 0.75rem;
+  padding: 2rem 1rem;
+  backdrop-filter: blur(10px);
+}
+
+.headerWrapper {
+  margin-bottom: 1rem;
+}
